@@ -61,7 +61,7 @@ function BottomTabNavigator() {
 
   return (
     <BottomTab.Navigator
-      initialRouteName="TabOne"
+      initialRouteName="Portfolio"
       screenOptions={{
         tabBarActiveTintColor: Colors[colorScheme].tint,
         headerTitleAlign: "center",
